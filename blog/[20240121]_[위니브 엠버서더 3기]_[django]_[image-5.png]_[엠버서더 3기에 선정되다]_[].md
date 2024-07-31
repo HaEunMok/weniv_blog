@@ -1,10 +1,10 @@
 # 위니브 엠버서더 선정!
 회사에서 근무하던 어느날.. 카톡방과 디스코드에 알림이 울렸다. 확인해보니, 위니브 엠버서더 3기를 모집한다는 공지였다
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 이전 포스팅들을 보면 알 수 있듯이, 2기때도 참여했는데, 저번 활동이 기억에 남아 이번에도 신청을 해보았다! 지난번에 했었어서 큰 기대 없이 까먹고 있다가 어느날 합격문자를 받았다!
 
-![alt text](image-3.png)
+![alt text](img/image-3.png)
 
 결과는 합격! 2기에 이어 3기에도 엠버서더로 활동을 하게 되었다
 
@@ -12,7 +12,7 @@
 </br>
 # 위니브?
 위니브 엠버서더와 위니브가 뭐하는 곳인지 모르는 사람들이 있을 거 같아 간단하게 이야기해보고자 한다.
-![alt text](image-4.png)
+![alt text](img/image-4.png)
 (출처 - https://paullab.co.kr/about.html)
 >**" 기술의 교육 기회를 누구나 차등없이 받을 수 있게 대중화, 보편화, 시스템화 하는 것 "**</br>
 우리는 교육 특권의 대중화, 고급 IT 기술의 상용화를 도모합니다.</br>
@@ -55,20 +55,21 @@ ICT 연구 및 (코딩)교육 기관이며 다양한 사회 공헌 활동을 하
 
 그리고 간혹 위니드(WE-NEED)이벤트를 하는데, 참여하게 되면 쏠쏠한 상품을 받을 수 있다. 생각보다 상품이 괜찮아서 반드시 참여하도록 하자!🍵🍩🍰
 
-![alt text](image-5.png)
+![alt text](img/image-5.png)
 
 
-![alt text](image-6.png)
+![alt text](img/image-6.png)
 
 (출처 - https://ambassador.weniv.co.kr/)
 
-엠버서더에 관심이 생겼다면 위 엠버서더 신청링크를 참고하자☝
----
+엠버서더에 관심이 생겼다면 위 엠버서더 신청링크를 참고하자👉 위니브 엠버서더 -https://www.inflearn.com/users/170213/@jejucoding
+
+
+
 
 참고
 --
 
 
-- 
-제주코딩베이스캠프 - https://www.inflearn.com/users/170213/@jejucoding
+- 제주코딩베이스캠프 - https://www.inflearn.com/users/170213/@jejucoding
 - 위니브 엠버서더 -https://www.inflearn.com/users/170213/@jejucoding
